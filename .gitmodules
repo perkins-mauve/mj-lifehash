@@ -1,0 +1,3 @@
+[submodule "mod/Verstable"]
+	path = mod/Verstable
+	url = https://github.com/JacksonAllan/Verstable.git
